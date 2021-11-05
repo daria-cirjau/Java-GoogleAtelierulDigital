@@ -1,4 +1,4 @@
-package Lab1.exercises;
+package Lab1.Exercises;
 import java.util.Arrays;
 
 public class Exercises {
