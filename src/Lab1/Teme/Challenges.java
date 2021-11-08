@@ -1,5 +1,4 @@
 package Lab1.Teme;
-import java.lang.String;
 
 public class Challenges {
     public Challenges() {
