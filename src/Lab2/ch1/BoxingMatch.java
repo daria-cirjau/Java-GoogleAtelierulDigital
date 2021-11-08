@@ -6,7 +6,7 @@ public class BoxingMatch {
     public BoxingMatch(Fighter fighter1, Fighter fighter2)
     {
         this.f1=fighter1;
-        f2=fighter2;
+        this.f2=fighter2;
     }
     public String fight(){
         while(f1.getHealth() > 0 && f2.getHealth() > 0){

@@ -7,6 +7,7 @@ public class Main {
         Fighter f1=new Fighter("f1",100,10);
         Fighter f2=new Fighter("f2",100,10);
         BoxingMatch boxingMatch=new BoxingMatch(f1,f2);
-        System.out.println("Winner: "+ boxingMatch);
+        System.out.println("Winner: "+ boxingMatch.fight());
+        System.out.println("Number of fighters= "+ Fighter.getNumberOfFighters());
     }
 }

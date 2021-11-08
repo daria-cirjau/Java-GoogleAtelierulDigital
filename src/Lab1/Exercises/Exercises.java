@@ -1,4 +1,4 @@
-package Lab1.exercises;
+package Lab1.Exercises;
 import java.util.Arrays;
 
 public class Exercises {
@@ -14,6 +14,7 @@ public class Exercises {
     public static void main(String[] args) {
         Exercises ex = new Exercises();
         ex.arrays();
+
     }
 }
 
