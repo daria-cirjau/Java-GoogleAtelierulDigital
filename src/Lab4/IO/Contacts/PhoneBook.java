@@ -1,4 +1,6 @@
-package Lab4.IO;
+package Lab4.IO.Contacts;
+
+import Lab4.IO.Contacts.Contact;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

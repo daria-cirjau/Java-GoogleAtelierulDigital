@@ -1,8 +1,7 @@
-package Lab4.IO;
+package Lab4.IO.Contacts;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
-import java.io.IOException;
 
 public class Main {
     public static void storeContactToFile(String fileName, Contact contact){

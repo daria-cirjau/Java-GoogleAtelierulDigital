@@ -1,4 +1,4 @@
-package Lab4.IO;
+package Lab4.IO.Contacts;
 
 public class Contact {
     private String name;
