@@ -9,7 +9,6 @@ public class Message {
 
     Scanner s=null;
     String storeMessage=null;
-    int counter=0;
 
     public String writeMessage(String inputfile){
         try{
