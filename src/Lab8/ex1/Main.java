@@ -19,7 +19,8 @@ public class Main {
         List<Student> students= Arrays.asList
                 (new Student("S1",2011,10),
                 new Student("S2",2011,8),
-                new Student("S3",2011,9));
+                new Student("S3",2011,9),
+                new Student("S3",2012,10));
 
         System.out.println(getTopStudent(students));
 
