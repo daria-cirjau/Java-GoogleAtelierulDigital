@@ -3,5 +3,5 @@ de productie din tara de provenienta. Astfel, dorim ca toate magazinele, din toa
 cand intervine o schimbare de pret a produsului in Romania.
 
 Design pattern-ul Observer este un model behavioral si defineste relatia in care un subiect notifica mai multi observatori. In cazul nostru,
-Observer este interfata care defineste obiectele care vor fi notificate, observatorii concreti sunt reprezentati de magazinele din Romania,
-din China, SUA, UK si restul Europei, iar clasa Subject contine si gestioneaza lista de observatori si ii notifica atunci cand intervin modificari.
+Observer este interfata care defineste obiectele care vor fi notificate, observatorii concreti sunt reprezentati de magazinele din Romania, 
+China, SUA, UK si din restul Europei, iar clasa Subject contine si gestioneaza lista de observatori si ii notifica atunci cand intervin modificari.
