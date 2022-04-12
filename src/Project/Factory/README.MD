@@ -1,4 +1,3 @@
-BANK ACCOUNTS MANAGING PROJECT
 
 Dorim sa cream conturi bancare pentru clientii unei banci , in functie de tipul pe care il aleg: cont curent, depozit la termen 
 si cont de economii. Stim ca toate cele trei conturi au o suma, in functie de care calculeaza o posibila dobanda si un tip, in 
