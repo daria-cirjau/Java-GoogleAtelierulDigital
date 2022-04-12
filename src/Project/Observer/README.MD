@@ -1,5 +1,6 @@
 <h1>Shops managing project</h1>
 
+
 O firma romaneasca are magazine in mai multe tari, si isi doreste ca pretul unui produs sa se modifice in functie de schimbarile costului
 de productie din tara de provenienta. Astfel, dorim ca toate magazinele, din toate tarile in care se regasesc, sa fie notificate atunci
 cand intervine o schimbare de pret a produsului in Romania.
